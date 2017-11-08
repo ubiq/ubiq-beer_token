@@ -1,6 +1,6 @@
 # Ubiq - BEER token
 
-The Ubiq BEER token is a token which allows the token holder to claim a beer from a Ubiq team member (or participating Ubiq community member) in person.
+The Ubiq BEER token is a token which allows the token holder to redeem a beer from a Ubiq team member (or participating Ubiq community member) in person.
 
 Here are the specifications:
 
@@ -8,3 +8,8 @@ Here are the specifications:
 * Token symbol: BEER
 * Decimals: 0
 * Max supply: 8888
+
+## Donation address
+
+BTC: 177Gm2WbQAE3ewVwXPb9xjrSMdVPQWKPqw
+
