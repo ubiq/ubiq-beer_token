@@ -13,3 +13,5 @@ Here are the specifications:
 
 BTC: 177Gm2WbQAE3ewVwXPb9xjrSMdVPQWKPqw
 
+ETH: 0xfb8E03C6586f5BC43F5C43D3441a58dbeE0Ea9df
+
