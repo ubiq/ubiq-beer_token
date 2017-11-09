@@ -9,6 +9,10 @@ Here are the specifications:
 * Decimals: 0
 * Max supply: 8888
 
+This was token was originally launched to optionally fund the Ledger hardware wallet integration fees.
+
+More details in this blog post: https://blog.ubiqsmart.com/ubiq-on-the-ledger-hardware-wallet-a2e17d050a1b
+
 ## Donation address
 
 BTC: 177Gm2WbQAE3ewVwXPb9xjrSMdVPQWKPqw
